@@ -6,7 +6,8 @@ spring:
       name: jorian
       password: 123456
 server:
-  port:   8761
+  port: 8761
+
 
 eureka:
   client:
